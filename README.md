@@ -1,4 +1,4 @@
-# TrafficSignClassification-CNN-Pruning-Quantization
+# Efficient Traffic Sign Classification Using Pruning and Quantization for Embedded Systems
 
 ## 🚦 Project Overview
 
