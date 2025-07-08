@@ -201,7 +201,8 @@ In essence, this project successfully optimized a CNN for traffic sign classific
 
 ## 📄 License
 
-This project is licensed under the LICENSE.txt See the `LICENSE` file for details.
+This project is licensed under the terms of the [LICENSE.txt](LICENSE.txt). See the file for details.
+
 
 ## 📧 Contact
 
