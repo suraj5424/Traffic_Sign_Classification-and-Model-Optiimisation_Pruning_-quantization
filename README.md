@@ -15,30 +15,6 @@ This repository investigates the classification of **German Traffic Signs** usin
   * **Detailed Model Analysis:** In-depth diagnostics (BN scaling, filter redundancy, activation utility) to guide pruning.
   * **Rigorous Evaluation:** Comprehensive performance assessment using accuracy, precision, recall, F1-score, inference time, GMACs, and model size.
 
------
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-  * Python 3.x
-  * Jupyter Notebook or Google Colab (recommended).
-  * Kaggle API token (setup instructions provided in the notebook/README).
-
-### Installation
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [YOUR_REPOSITORY_URL]
-    cd [YOUR_REPOSITORY_NAME]
-    ```
-2.  **Open in Google Colab (Recommended):** Upload `[YOUR_NOTEBOOK_NAME].ipynb`.
-3.  **Install dependencies:** (Handled by `!pip install` in the notebook, or `pip install torch torchvision pandas matplotlib scikit-learn seaborn ptflops opencv-python Pillow tqdm` locally).
-
-### Usage
-
-1.  **Execute the Jupyter Notebook cells sequentially.**
-2.  **Observe Outputs** for data balancing, model analysis, and performance metrics.
 
 -----
 
